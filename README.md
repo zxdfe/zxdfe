@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm xd, a FE web developer.
+- 🤔  My [Blog](https://zxdfe.github.io/)
 - 🔭  This Github is mainly used for writing blogs.
-- 🌱  I’m currently learning Node, Golang.
+- 🌱  I’m currently learning Vue, React, Typescript, Node and Golang.
