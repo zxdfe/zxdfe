@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm xd 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zxdfe&show_icons=true&icon_color=498de0&text_color=498de0&bg_color=ffffff&hide_title=true" />
 
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm xd.
 - 🤔  I'm from chongqing, China.
 - 🔭  This is mainly used for writing [blogs](https://zxdfe.github.io/)
 - 🌱  I’m currently learning Vue, React, Typescript, Node and Golang.
