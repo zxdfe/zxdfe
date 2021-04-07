@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🤔  I'm from chongqing, China.
-- 🔭  This is mainly used for writing [blogs](https://zxdfe.github.io/)
+- 🤣 This is mainly used for writing [blogs](https://zxdfe.github.io/)
 - 🌱  I’m currently learning Vue, React, Typescript, Node and Golang.
-- 😄  Nice to meet you :)
+- 💡  Getting Things Done, 2021.
+- 😃  Welcome! :)
