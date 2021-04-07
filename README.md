@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 🤣 This is mainly used for writing [blogs](https://zxdfe.github.io/)
 - 🌱  I’m currently learning Vue, React, Typescript, Node and Golang.
 - 💡  Getting Things Done, 2021.
-- 😃  Welcome! :)
