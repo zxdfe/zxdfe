@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 - 🤔  I'm from chongqing, China.
 - 🤣 This is mainly used for writing [blogs](https://zxdfe.github.io/)
-- 🌱  I’m currently learning Vue, React, Typescript, Node and Golang.
+- 🌱  I’m currently learning 
 - 💡  Getting Things Done, 2021.
